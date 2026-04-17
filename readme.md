@@ -1,3 +1,4 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VG02tCcC)
 # 📝 Laboratorio 1: Layout de Calculadora con Jetpack Compose
 
@@ -5,9 +6,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Katerine Nicole Zambrano Solorzano
+- **Carrera**: Ingeniería de Software
+- **Fecha de entrega**: 16/04/2026
 
 ---
 
